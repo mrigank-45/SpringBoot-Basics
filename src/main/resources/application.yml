@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://mrigank:mrigank123@cluster0.fiqfiwg.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      database : Task
